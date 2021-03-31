@@ -1,0 +1,5 @@
+name: Eenaprilgrap
+version: ${project.version}
+main: nl.manthos.eenaprilgrap.Eenaprilgrap
+authors: [ Manthos ]
+description: AHHAHAHAH
